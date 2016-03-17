@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-* Install iTerm2
-* Install homebrew
+* Install [iTerm2](https://www.iterm2.com/)
+* Install [Homebrew](http://brew.sh/)
 * Install wget: `brew install wget`
 * Install zsh:
   * `brew install zsh`
