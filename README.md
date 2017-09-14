@@ -26,6 +26,8 @@
     * `wget -O /tmp/SpaceGray%20Eighties.itermcolors https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/SpaceGray%20Eighties.itermcolors`
   * iTerm2 > Preferences > Profiles > Colors > Load Presets..
     * Select .itermcolors file from /tmp
+  * iTerm2 > Preferences > Profiles > Colors > Cursor Colors
+    * Set `Smart Cursor Color` to `true`
   * iTerm2 > Preferences > Profiles > Text
     * Regular Font: 12pt Sauce Code Powerline
     * Non-ASCII Font: 11pt Sauce Code Powerline 12pt
