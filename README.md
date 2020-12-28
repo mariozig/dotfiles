@@ -20,7 +20,7 @@
   * `cd /tmp/fonts`
   * `./install.sh`
 * Install oh-my-zsh `bullet-train` theme
-  * `wget -O ~/.oh-my-zsh/themes/bullet-train.zsh-theme http://raw.github.com/caiogondim/bullet-train-oh-my-zsh-theme/master/bullet-train.zsh-theme`
+  * `wget -O $ZSH_CUSTOM/themes/bullet-train.zsh-theme http://raw.github.com/caiogondim/bullet-train-oh-my-zsh-theme/master/bullet-train.zsh-theme`
 * Configure iTerm2
   * Install the "Space Gray Eighties" theme for iTerm 2
     * `wget -O /tmp/SpaceGray%20Eighties.itermcolors https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/SpaceGray%20Eighties.itermcolors`
